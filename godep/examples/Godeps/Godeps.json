@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/cloud-builders-community/godep",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/golang/example/stringutil",
+			"Rev": "46695d81d1fae905a270fb7db8a4d11a334562fe"
+		}
+	]
+}
